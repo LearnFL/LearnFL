@@ -28,5 +28,5 @@ Here are some ideas to get you started:
   * Data Science, Web Development, Analytics, statistical analysis, ITIL, Business Continuity, Metrics in ITSM
   * Python, JavaScript, C++ (Taylored for embedded tecchnology), ExpressJs, NodeJs, MongoDB, ReactJs, MongooseJs, Docker, Kubernetes, SQL, Restfu API, Git, HTML, CSS, Flask, Django
   * Embedded technology, electrical engineering,Project Management, Agile, Scrum, QA, QC, R&D, Lean 6 Sigma, Keize, product design, poduction controll, management 
-- 🌱 I’m planning on learning: TensorFlow, Angular, NextJs, VueJs and many other cool things
+- 🌱 I’m planning on learning: TensorFlow, Angular, NextJs, VueJs, refresh on Django and Flask, and many other cool things
 - 😄 In my free time I like tackling machine learning and deeplearning projects for fun.
