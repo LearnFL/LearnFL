@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   * <b>PROJ</b> are project related, example `proj-web-express-api-natours`
   * <b>REF</b> are all references (books, concepts, frameworks etc.)
   * <b>SRC</b> are for source code
-- ⚡ I Skills Include, but not limited to:
+- ⚡ Skills Include, but not limited to:
   * Data Science, Web Development, Analytics, statistical analysis, ITIL, Business Continuity, Metrics in ITSM
   * Python, JavaScript, C++ (Taylored for embedded tecchnology), ExpressJs, NodeJs, MongoDB, ReactJs, MongooseJs, Docker, Kubernetes, SQL, Restfu API, Git, HTML, CSS, Flask, Django
   * Embedded technology, electrical engineering,Project Management, Agile, Scrum, QA, QC, R&D, Lean 6 Sigma, Keize, product design, poduction controll, management 
