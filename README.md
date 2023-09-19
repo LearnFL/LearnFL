@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 -->
 
 - 📫 How to reach me: dr@dennisrotnov.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/drotnov/)
 - 🔭 Repositories navigation:
   * <b>PROJ</b> are project related, example `proj-web-express-api-natours`
   * <b>REF</b> are all references (books, concepts, frameworks etc.)
