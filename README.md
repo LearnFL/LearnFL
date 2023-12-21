@@ -1,6 +1,6 @@
 ### Hi there I am Dennis Rotnov 👋
 
-An enthusiastic leader, programmer and data scientist, I am passionate about exploring the world of coding and data science. With a penchant for problem solving, I am always eager to dive deep into the details of any project I am working on. My experience with electronics has been invaluable in helping me to develop innovative solutions. I have a strong work ethic and always strive to exceed expectations. As a team player, I am a great asset to any group. My enthusiasm for coding and data science is boundless, and I am always looking for new ways to expand my knowledge.
+An enthusiastic leader, engineer, programmer and data scientist, I am passionate about exploring the world of coding, web development, data science, embedded systems programming. With a penchant for problem solving, I am always eager to dive deep into the details of any project I am working on. My experience with electronics has been invaluable in helping me to develop innovative solutions. I have a strong work ethic and always strive to exceed expectations. As a team player, I am a great asset to any group. My enthusiasm for coding and data science is boundless, and I am always looking for new ways to expand my knowledge.
 
 
 <!--
