@@ -50,3 +50,4 @@ Here are some ideas to get you started:
   * [Notification system, electronics and microcontrollers](https://github.com/LearnFL/proj-embedded-raspberrypi-autoclave-alarm)
   * [Automation, custom built electronics, microcontrollers](https://github.com/LearnFL/proj-embedded-saw-bumping)
   * [Automation, notification system, electronics and microcontrollers](https://www.linkedin.com/feed/update/urn:li:activity:7107696326913495040/)
+  * [Very basic student management app, built to explore PyQt6](https://github.com/LearnFL/proj-python-gui-student-management/tree/main)
