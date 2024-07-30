@@ -33,6 +33,7 @@ Here are some ideas to get you started:
   * [A personal website](https://www.dariarotnov.com)
   * [My personal web site](https://www.dennisrotnov.com)
   * [Natours Full Stack](https://github.com/LearnFL/proj-web-express-api-natours)
+  * [Fast React Pizza app](https://github.com/LearnFL/proj-web-react-fastPizza/tree/main)
   * [Some data science projects groupped in a signle repository](https://github.com/LearnFL/proj-production-control-demo-DataScience/tree/main)
   * [Responsive design](https://github.com/LearnFL/proj-web-Omnifood)
   * [Vanilla Java Script based application focusing on OOP and inheritance](https://github.com/LearnFL/proj-web-js-forkify)
